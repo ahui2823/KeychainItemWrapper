@@ -6,7 +6,7 @@
   "homepage": "https://gist.github.com/3376201",
   "authors": "David Hoerl",
   "source": {
-    "git": "https://gist.github.com/3376201.git",
+    "git": "https://github.com/ahui2823/KeychainItemWrapper.git",
     "tag": "1.2"
   },
   "source_files": "KeychainItemWrapper.*",
